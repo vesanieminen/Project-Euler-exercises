@@ -1,9 +1,11 @@
-package com.vesanieminen.largestpalindrome;
+package com.vesanieminen.projecteuler4;
 
 import static org.junit.Assert.assertFalse;
 import static org.junit.Assert.assertTrue;
 
 import org.junit.Test;
+
+import com.vesanieminen.projecteuler4.Palindrome;
 
 public class TestPalindrome {
 

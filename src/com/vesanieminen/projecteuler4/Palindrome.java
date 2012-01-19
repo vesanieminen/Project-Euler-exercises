@@ -1,4 +1,4 @@
-package com.vesanieminen.largestpalindrome;
+package com.vesanieminen.projecteuler4;
 
 import java.util.HashSet;
 import java.util.Set;
